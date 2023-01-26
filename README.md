@@ -1,6 +1,6 @@
 # Frontend Mentor - Launch countdown timer solution
 
-![Design preview for the Launch countdown timer coding challenge](./design/screenshot.png)
+![Design preview for the Launch countdown timer coding challenge](/design/screenshot.png)
 
 ## Welcome! 👋
 
